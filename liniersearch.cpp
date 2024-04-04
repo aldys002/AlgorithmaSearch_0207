@@ -20,7 +20,7 @@ void input()
     // Accept array elements
     cout << "\n-----------------------\n";
     cout << "Enter array elemen \n";
-    coit << "-------------------------\n";
+    cout << "-------------------------\n";
     for (i=0; 1 < n; i++)
     {
         cout << "<" << (i + 1) << ">";
@@ -29,5 +29,5 @@ void input()
 }
 
 void LinierSearch (){
-    
+
 }
