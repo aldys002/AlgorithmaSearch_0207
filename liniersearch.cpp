@@ -34,5 +34,12 @@ void LinierSearch (){
     char ch;
     int ctr; //Number of comparisons
     int item;
+
+    do
+    {
+        //Accept the number to be searched
+        
+    } while (/* condition */);
+    
 }
 
