@@ -33,5 +33,6 @@ void input()
 void LinierSearch (){
     char ch;
     int ctr; //Number of comparisons
+    int item;
 }
 
