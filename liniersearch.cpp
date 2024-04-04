@@ -10,19 +10,19 @@ void input()
     while(true)
     {
        cout << "enter the number of elements in the array : ";
-    cin >> n;
-    if ((n>0) && (n <= 20))
-         break;
-    else
-        cout << "Enter the number of element in the array: ";
+       cin >> n;
+       if ((n>0) && (n <= 20))
+            break;
+       else
+            cout << "Enter the number of element in the array: ";
      
     }
     
     
     // Accept array elements
-    cout << "\n-----------------------\n";
-    cout << "Enter array elemen \n";
-    cout << "-------------------------\n";
+    cout << "\n----------------------\n";
+    cout << "Enter array elements \n";
+    cout << "--------------------\n";
     for (i=0; 1 < n; i++)
     {
         cout << "<" << (i + 1) << ">";
