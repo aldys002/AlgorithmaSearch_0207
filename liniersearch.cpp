@@ -66,7 +66,7 @@ void LinierSearch (){
 
 void display()
 {
-    cout << "Array elements are ;";
+    cout << "Array elements are: ";
     for (i = 0; i < n; i++)
        cout << arr[i] << "";
     cout << endl;
@@ -74,5 +74,7 @@ void display()
 
 int main()
 {
-    
+    input();
+    LinierSearch();
+    display();
 }
