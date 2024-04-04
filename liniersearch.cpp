@@ -31,7 +31,7 @@ void input()
 }
 
 void LinierSearch (){
-    char ch ;
-    int 
+    char ch;
+    int ctr; //Number of comparisons
 }
 
