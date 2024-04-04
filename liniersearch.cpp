@@ -53,6 +53,8 @@ void LinierSearch (){
             }   
             i++; //step 4
         }
+
+        if (i == n) //step 5
     } while (/* condition */);
     
 }
