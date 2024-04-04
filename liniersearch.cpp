@@ -30,7 +30,7 @@ void input()
     }
 }
 
-void LinierSearch (){
+void LiniearSearch (){
     char ch;
     int ctr; //Number of comparisons
     int item;
@@ -76,6 +76,6 @@ void display()
 int main()
 {
     input();
-    LinierSearch();
+    LiniearSearch();
     display();
 }
